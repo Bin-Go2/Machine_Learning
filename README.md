@@ -1,0 +1,1 @@
+This is a public repository recording my machine learning's notes and the implementation of some models without third party libraires.
